@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @surya-1111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+FB-Tool
+Facebook Hacking ToolKit
 
-<!---
-surya-1111/surya-1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FEATURES:
+ NORMAL LOGIN
+ ACCESS TOKEN LOGIN
+IFORMATIONS:
+ Facebook friend info fetcher
+ Get ID from friend
+ Get ID friend from friend
+ Get group member ID
+ Get email friend
+ Get email friend from friend
+ Get a friend's phone number
+ Get a friend's phone number from friend
+ Mini Hack Facebook(Target)
+ Multi Bruteforce Facebook
+ Super Multi Bruteforce Facebook
+ BruteForce(Target)
+ Yahoo Checker
+ Bot Reactions Target Post
+ Bot Reactions group Post
+ BOT COMMENT Target Post
+ BOT COMMENT group Post
+ Mass delete Post
+ Mass accept friends
+ Mass delete friend
+ ACreate Post
+ Create Wordlist
+ Account Checker
+ See my group list
+ Profile Guard
+INSTALLATION
+$ git clone https://github.com/mkdirlove/FBTOOL
+
+$ cd FBTOOL
+USAGE
+$ sudo python2 fbtool.py
+
+or
+
+$ python2 fbtool.py
